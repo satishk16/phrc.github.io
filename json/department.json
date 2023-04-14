@@ -1,0 +1,112 @@
+[
+    {
+      "practitionerTypeId": "Anesthesiology",
+      "practitionerType": "Anesthesiology",
+      "practitioner_type_description": "Anesthesiology"
+    },
+    {
+      "practitionerTypeId": "COVID and Post COVID",
+      "practitionerType": "COVID and Post COVID",
+      "practitioner_type_description": "COVID and Post COVID"
+    },
+    {
+      "practitionerTypeId": "Dermatology",
+      "practitionerType": "Dermatology",
+      "practitioner_type_description": "Dermatology"
+    },
+    {
+      "practitionerTypeId": "Diabetology",
+      "practitionerType": "Diabetology",
+      "practitioner_type_description": "Diabetology"
+    },
+    {
+      "practitionerTypeId": "Family Medicine",
+      "practitionerType": "Family Medicine",
+      "practitioner_type_description": "Family Medicine"
+    },
+    {
+      "practitionerTypeId": "General Dentistry",
+      "practitionerType": "General Dentistry",
+      "practitioner_type_description": "General Dentistry"
+    },
+    {
+      "practitionerTypeId": "General Practice",
+      "practitionerType": "General Practice",
+      "practitioner_type_description": "General Practice"
+    },
+    {
+      "practitionerTypeId": "General Surgery",
+      "practitionerType": "General Surgery",
+      "practitioner_type_description": "General Surgery"
+    },
+    {
+      "practitionerTypeId": "Homeopathic Medicine",
+      "practitionerType": "Homeopathic Medicine",
+      "practitioner_type_description": "Homeopathic Medicine"
+    },
+    {
+      "practitionerTypeId": "Internal Medicine",
+      "practitionerType": "Internal Medicine",
+      "practitioner_type_description": "Internal Medicine"
+    },
+    {
+      "practitionerTypeId": "Neurosurgery",
+      "practitionerType": "Neurosurgery",
+      "practitioner_type_description": "Neurosurgery"
+    },
+    {
+      "practitionerTypeId": "Nutrition",
+      "practitionerType": "Nutrition",
+      "practitioner_type_description": "Nutrition"
+    },
+    {
+      "practitionerTypeId": "Obstetrics and Gynaecology",
+      "practitionerType": "Obstetrics and Gynaecology",
+      "practitioner_type_description": "Obstetrics and Gynaecology"
+    },
+    {
+      "practitionerTypeId": "Oncology",
+      "practitionerType": "Oncology",
+      "practitioner_type_description": "Oncology"
+    },
+    {
+      "practitionerTypeId": "Ophthalmology",
+      "practitionerType": "Ophthalmology",
+      "practitioner_type_description": "Ophthalmology"
+    },
+    {
+      "practitionerTypeId": "Oral & Maxillofacial Surgery",
+      "practitionerType": "Oral & Maxillofacial Surgery",
+      "practitioner_type_description": "Oral & Maxillofacial Surgery"
+    },
+    {
+      "practitionerTypeId": "Orthopaedic Surgery",
+      "practitionerType": "Orthopaedic Surgery",
+      "practitioner_type_description": "Orthopaedic Surgery"
+    },
+    {
+      "practitionerTypeId": "Paediatrics",
+      "practitionerType": "Paediatrics",
+      "practitioner_type_description": "Paediatrics"
+    },
+    {
+      "practitionerTypeId": "Pain Medicine",
+      "practitionerType": "Pain Medicine",
+      "practitioner_type_description": "Pain Medicine"
+    },
+    {
+      "practitionerTypeId": "Physiotherapy",
+      "practitionerType": "Physiotherapy",
+      "practitioner_type_description": "Physiotherapy"
+    },
+    {
+      "practitionerTypeId": "Psychology and Counseling",
+      "practitionerType": "Psychology and Counseling",
+      "practitioner_type_description": "Psychology and Counseling"
+    },
+    {
+      "practitionerTypeId": "Urology",
+      "practitionerType": "Urology",
+      "practitioner_type_description": "Urology"
+    }
+  ]

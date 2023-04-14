@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "username": "doctor",
+  "firstName": "Karan",
+  "lastName": "Jain",
+  "birthDate": "29-Nov-1981",
+  "nationality": "Indian",
+  "gender": "Male",
+  "role": "doctor",
+  "beManager": 0,
+  "email": "dr.trial@gmail.com",
+  "token":"abc12gh$"
+}

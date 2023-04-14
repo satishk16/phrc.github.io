@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "username": "admin",
+  "firstName": "Amar",
+  "lastName": "Ray",
+  "birthDate": "29-Nov-1981",
+  "nationality": "Indian",
+  "gender": "Male",
+  "role": "admin",
+  "beManager": 0,
+  "email": "admin@gmail.com",
+  "token":"def12gh$"
+}
